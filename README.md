@@ -1,4 +1,4 @@
-# Mo-Tag Data Pack
+# MoTag
 
 ## Feature
 
