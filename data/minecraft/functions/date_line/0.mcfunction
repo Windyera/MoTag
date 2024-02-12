@@ -1,0 +1,1 @@
+execute if predicate minecraft:time_check-0-24000 run function #minecraft:date_line

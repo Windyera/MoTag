@@ -1,0 +1,10 @@
+{
+  "condition": "minecraft:inverted",
+  "term":{
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "minecraft.online": 1.0
+    }
+  }
+}
